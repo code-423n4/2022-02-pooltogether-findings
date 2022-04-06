@@ -2,7 +2,7 @@
   "contest": 93,
   "handle": "chunter",
   "address": "0xB11BB446E28d4315B2bF91D1898B8E386e444534",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 19,
   "issueUrl": "https://github.com/code-423n4/2022-02-pooltogether-findings/issues/19"
